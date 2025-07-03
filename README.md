@@ -50,7 +50,7 @@
 
 小结：快连VPN有一定优势，但真实体验与官方宣传有差距。建议用户谨慎评估，结合自身需求和使用场景选择VPN。更多优质VPN推荐请参见<a href="https://sg2025.shop/">中国VPN推荐</a>。
 
-<a href="https://chawacha.com/show/56.html" target="_blank"><img src="pic/lestvpn快连下载.jpeg" alt="快连VPN" border="0"></a>
+<p align="center"><a href="https://chawacha.com/show/56.html" target="_blank"><img src="pic/lestvpn快连下载.jpeg" alt="快连VPN" border="0"></a></P>
 
 ## 快连VPN的安全性分析
 
