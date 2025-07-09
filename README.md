@@ -9,7 +9,7 @@
 ## <p align="center">一键“快连”，纵享丝滑</p>
 快连 VPN 采用全新内核，AI 智能连接，自动为您匹配全球最快的网络节点，只需要轻点“开启快连”，3秒之内，纵享丝绸般顺滑的冲浪体验。
 
-<p align="center"><a href="https://chawacha.com/show/42.html" target="_blank">立即体验   了解更多</a></p>
+<p align="center"><a href="https://tawk.to/liufuwu" target="_blank">立即体验   了解更多</a></p>
 
 ## 快连VPN运营国家揭秘
 
